@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         aboutButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                option1.setText("Something something use this app however you want. Just don't be a dick.");
+                option1.setText("Something something use this app however you want.");
                 option2.setText("No I won't take suggestions. I made this for me only.");
                 option3.setText("GitHub repo: https://github.com/Yogehi/BPMCalculator");
             }
